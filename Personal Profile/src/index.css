@@ -1,0 +1,13 @@
+.profile {
+    border-style: dashed;
+    width: max-content;
+    margin: auto;
+}
+
+.leftside {
+    display: inline-block;
+}
+
+.rightside {
+    display: inline-block;
+}

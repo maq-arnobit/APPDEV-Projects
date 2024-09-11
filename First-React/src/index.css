@@ -1,0 +1,6 @@
+.person {
+    display: inline-block;
+    border-style: dashed;
+    margin: 20px;
+    padding: 20px;
+}
