@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 const quotes = ["Better to trip with the feet than with the tongue.", "We suffer more often in imagination than in reality.", "Only the educated are free.", "Don't explain your philosophy. Embody it.", "Be tolerant with others and strict with yourself.", "Sometimes even to live is an act of courage."]
 const sources = ["Zeno of Citium", "Seneca", "Epictetus", "Epictetus", "Marcus Aurelius", "Seneca"]
 export default function QuoteGen () {
-    const [index, setIndex] = useState(0)
+    const [index, setIndex] = useState(1)
     const [quote, setQuote] = useState("Better to trip with the feet than with the tongue.")
     const [source, setSource] = useState("Zeno of Citium")
     function getRandomNumber () {
