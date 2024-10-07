@@ -1,0 +1,29 @@
+.list-category {
+  font-weight: bold;
+  font-size: 8mm;
+  color: hsl(0, 0%, 20%);
+  text-align: center;
+  margin-bottom: 20px;
+  border: 3px solid;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
+
+.list li {
+  list-style: none;
+  font-size: 5mm;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(189, 187, 187);
+}
+
+.list li:hover {
+  color: hsl(0, 0%, 50%);
+  cursor: pointer;
+}
+footer {
+  text-align: center;
+}
