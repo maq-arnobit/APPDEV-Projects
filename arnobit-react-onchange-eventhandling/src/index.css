@@ -1,0 +1,25 @@
+header, footer, h4{
+    text-align: center;
+}
+
+.student-card {
+    text-align: center;
+    background-color:cyan;
+    width: 25%;
+    margin: auto;
+    border-style: dashed;
+    border-color: black;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.form-container {
+    width: 25%;
+    margin: auto;
+    border-style: solid;
+    border-color: gray;
+}

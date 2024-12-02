@@ -1,0 +1,27 @@
+body {
+    background-color: midnightblue;
+}
+
+header {
+    color: white;
+}
+
+.login {
+    border-style: dashed;
+    width: 200px;
+    margin: auto;
+    color: white;
+}
+
+.reviews-form, .reviews {
+    border-style: groove;
+    width: 250px;
+    margin: auto;
+    color: white
+}
+
+.review-item {
+    list-style: none;
+    border-style: dotted;
+    color:lime
+}
